@@ -30,21 +30,6 @@ Resume + JD  ──►  7 Agents  ──►  Skill Gap Report + Questions + Mock
 
 ---
 
-## 🚀 Live Demo
-
-> Open the Colab notebook to run the full pipeline without any setup:
-
-<p align="center">
-  <a href="https://colab.research.google.com/github/yourusername/interviewpilot-ai/blob/main/InterviewPilot_AI_Gourav_Rohit.ipynb">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" height="32"/>
-  </a>
-</p>
-
-> **Demo mode:** The notebook runs end-to-end with realistic mock data — no API key required.  
-> Add your `OPENAI_API_KEY` to Colab Secrets to enable real GPT-4o inference.
-
----
-
 ## 🧠 The Problem
 
 | Pain Point | Impact |
@@ -460,23 +445,10 @@ All diagrams are in `docs/architecture/`:
 
 ## 👤 Author
 
-**Gourav Rohit**  
-Data & AI Engineer  
+**Gourav Rohit**   
 📧 happyrohit.rg@gmail.com  
 📱 +91 9329601169  
-🏙️ Bhopal, India
 
-- B.Tech in Electronics & Communication Engineering  
-- PGDCA — Post Graduate Diploma in Computer Applications  
-- Professional Certification in Data Science & AI Engineering — **IIT Guwahati (2025)**  
-- Published IEEE Research Paper
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.  
-Built as a submission for the **Damco AI Engineer Challenge 2026**.
 
 ---
 
