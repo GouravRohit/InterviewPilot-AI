@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="interviewpilot_banner.png" alt="InterviewPilot AI Banner" width="100%"/>
+  <img width="1920" height="600" alt="interviewpilot_banner" src="https://github.com/user-attachments/assets/d7be4ec4-fcf1-41e2-a7ae-d1f0bb621aa3" />
+
 </p>
 
 <p align="center">
@@ -423,23 +424,6 @@ MAX_REINTERVIEW_CYCLES=2
 | Invalid input | FastAPI validation layer rejects at boundary |
 | Database failure | Read replica failover + connection pool retry |
 | Agent crash | LangGraph catches exception, logs to structured output, marks step failed |
-
----
-
-## 📁 Architecture Diagrams
-
-All diagrams are in `docs/architecture/`:
-
-| File | Description |
-|---|---|
-| `diagram_01_agent_pipeline.png` | Full agent pipeline with sub-tasks |
-| `diagram_02_langgraph_state_flow.png` | LangGraph state flow with re-interview loop |
-| `diagram_03_sequence_flow.png` | End-to-end sequence from upload to assessment |
-| `diagram_04_infrastructure.png` | Cloud infrastructure & deployment |
-| `diagram_05_database_schema.png` | ERD with foreign key relationships |
-| `diagram_06_observability.png` | Prometheus → Grafana → alerting stack |
-| `diagram_07_error_handling.png` | Resume parsing failure recovery flow |
-| `diagram_08_security.png` | JWT → RBAC → encrypted storage |
 
 ---
 
